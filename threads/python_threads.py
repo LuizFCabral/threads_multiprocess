@@ -42,4 +42,4 @@ def compute(end, start=1):
 if __name__ == "__main__":
     main()
 
-"""Terminou em xx.xx segundos."""
+"""Terminou em 9.9 segundos."""
